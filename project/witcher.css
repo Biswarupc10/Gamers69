@@ -1,0 +1,38 @@
+.trailer{
+  text-align:center;
+  text-decoration: underline;
+  color:rgb(255, 0, 0);
+  font-size:1.6em;
+}
+.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+body{
+  background-color:black;
+}
+p{
+  color:rgb(255, 7, 7);
+  font-size:1.6em;
+  text-align:center;
+}
+ul{
+  color:aqua;
+  font: size 1px;.6em;
+}
+b{
+  color:aqua;
+}
+ol{
+  color:aqua;
+  animation-iteration-count: infinite;
+  animation-timing-function: 3s;
+}
+p{
+  color:white;
+}
+.link{
+  font-size:1.6em;
+}

@@ -1,0 +1,32 @@
+
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing:border-box;
+}
+h1{
+    font-style:"Brush Script MT",cursive;
+}
+
+nav{
+    background-color:rgb(180, 241, 233);
+      display:flex;
+      justify-content:space-around;
+      align-items:center;
+      min-height: 15vh;
+      background-color:teal;
+      font-family:"Montserrat",sans-serif;
+  }
+  ul{
+      display:flex;
+      justify-content:space-around;
+      width: 30px;
+      spacing: 1px;
+  }
+  ul{
+      list-style: none;
+  }
+  ul{
+      font-size:large;
+  }
+  
